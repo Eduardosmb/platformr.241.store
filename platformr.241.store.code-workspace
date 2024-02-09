@@ -7,5 +7,7 @@
 			"path": "../platform.241.store.account"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
 }
